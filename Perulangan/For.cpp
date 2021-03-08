@@ -7,8 +7,8 @@ int main(){
   	jml = 0;
     for(i=1; i<=bn; i++){
    	    cin >> n;
-  		jml = jml + n;
- 	}
- 	cout << jml << endl;
- 	return 0;
+  	    jml = jml + n;
+    }
+    cout << jml << endl;
+    return 0;
 }
