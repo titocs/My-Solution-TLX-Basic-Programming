@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int ;
+int N;
 bool pernah[1069] = {0}, kondisi, zigzag;
 bool kondisi1, kondisi2;
 int catat[1069];
